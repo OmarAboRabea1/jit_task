@@ -29,8 +29,9 @@ This repository contains a Python script and Docker image for running [Gitleaks]
 ### **Installation**
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/gitleaks-detection-tool.git
-    cd gitleaks-detection-tool
+    git clone https://github.com/OmarAboRabea1/jit_task.git
+    cd jit_task
+    git checkout master
     ```
 
 2. Install Python dependencies:
